@@ -1,0 +1,23 @@
+{
+  "name": "namnguyen/speedoptimizer",
+  "description": "Optimizer Speed magento2",
+  "type": "magento2-module",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Nguyen Xuan Nam",
+      "email": "xuannam0205@gmail.com",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "NamNguyen\\SpeedOptimizer\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
